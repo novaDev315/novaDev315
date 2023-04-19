@@ -18,7 +18,7 @@ I'm an full-stack developer. All coding projects are built from the ground up, f
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
@@ -32,9 +32,9 @@ I'm an full-stack developer. All coding projects are built from the ground up, f
 ### 📊 Stats
 
 <div display="flex">
-    ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=novaDev315&show_icons=true&theme=react)
-    ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=novaDev315&layout=compact&langs_count=11&theme=react)
-    ![Mohamed's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=novaDev315&theme=react&background=000000)
+    <img src="https://github-readme-stats.vercel.app/api?username=novaDev315&show_icons=true&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaDev315&layout=compact&langs_count=11&theme=react" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=novaDev315&theme=react&background=000000" />
 </div>
 #
 
