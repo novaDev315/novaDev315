@@ -6,6 +6,10 @@ I'm an full-stack developer. All coding projects are built from the ground up, f
 
 ---
 
+<!-- for icons
+  https://devicon.dev/
+-->
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -32,8 +36,8 @@ I'm an full-stack developer. All coding projects are built from the ground up, f
 ### 📊 Stats
 
 <div display="flex">
-    <img src="https://github-readme-stats.vercel.app/api?username=novaDev315&show_icons=true&theme=react" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novaDev315&layout=compact&langs_count=11&theme=react" />
+    <img src="https://github-readme-stats-novadev315.vercel.app/api?username=novaDev315&show_icons=true&theme=react" />
+    <img src="https://github-readme-stats-novadev315.vercel.app/api/top-langs/?username=novaDev315&layout=compact&langs_count=11&theme=react" />
     <img src="http://github-readme-streak-stats.herokuapp.com?user=novaDev315&theme=react&background=000000" />
 </div>
 #
