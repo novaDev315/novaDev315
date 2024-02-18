@@ -62,13 +62,17 @@ Looking forward to collaborating on innovative projects and pushing the boundari
 Let's transform ideas into impactful digital experiences together!
 
 <details>
-  <summary><h3>👨<200d>💻 About-Me **(if you're interested thought)**</h3></summary>
+  <summary><strong>👨💻 About Me (if you're interested though)</strong></summary>
+  <p>
     As a passionate Full-Stack Developer and fervent tech enthusiast, my mission is to craft innovative solutions that resonate in the ever-evolving digital landscape. My adventure in tech began with the ambition to bridge aesthetics and functionality, leading me from freelance web development to the intricate challenges of game design. My hands-on experience spans across creating personalized, e-commerce, and corporate websites to contributing to the expansive world of the MORPG game "Rappelz," where I enhanced gameplay through novel features and robust security measures.
-
+  </p>
+  <p>
     Holding a Full-Stack Engineer Certification, I'm not just equipped with a broad spectrum of technical skills—from HTML and CSS to JavaScript and Lua—but also with a persistent zeal for embracing new technologies and methodologies, such as Cloudflare and Vercel, to stay at the cutting edge of web and software development. This dedication extends beyond the professional realm, reflecting my personal commitment to leveraging technology in addressing pivotal issues like climate change.
-
+  </p>
+  <p>
     Beyond coding, my world is enriched by a voracious appetite for reading, a passion for gaming that fuels my creativity, and an insatiable curiosity for exploring new cultures and languages, which has rendered me a multilingual communicator. These pursuits not only refine my technical expertise but also broaden my worldview, enabling me to approach each project with a fresh, global perspective.
-
+  </p>
+  <p>
     I'm on a quest to collaborate with like-minded individuals and organizations to forge impactful digital experiences that push the boundaries of possibility. Together, let's navigate the future of technology and make a tangible difference in the world.
+  </p>
 </details>
-
