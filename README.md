@@ -14,27 +14,21 @@ understand, audit, and maintain.
 
 ### [Portfolio Platform](https://novadev.tech)
 
-**Live deployment · Source not public · Employment-focused rebuild in progress**
-
-A full-stack Next.js 15 application deployed to Cloudflare Workers with
+A live full-stack Next.js 15 application deployed to Cloudflare Workers with
 OpenNext, using Cloudflare D1 for production data. The codebase includes typed
 API routes, validation, migrations, and automated tests.
 
 ### [Code Realm TS](https://github.com/novaDev315/code-realm-ts)
 
-**Active personal project · Public repository**
-
 A gamified TypeScript command-line application for practising algorithms and
-system-design concepts. The chapter engine, Chapter 1, persistent progression,
-and autograder are implemented; the remaining chapter catalogue is planned.
+system-design concepts. It currently includes the chapter engine, Chapter 1,
+persistent progression, and an autograder, with more chapters on the roadmap.
 
 ### Novara
 
-**Private personal project**
-
 My local-first personal AI assistant and engineering project, designed around
-privacy, explicit approval, auditability, memory, and governed tools. It is a
-personal system, not a commercial product.
+privacy, explicit approval, auditability, memory, and governed tools. I use it
+for my own workflows rather than offering it as a commercial product.
 
 ## Current focus
 
