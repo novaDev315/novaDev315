@@ -18,6 +18,12 @@ A live full-stack Next.js 15 application deployed to Cloudflare Workers with
 OpenNext, using Cloudflare D1 for production data. The codebase includes typed
 API routes, validation, migrations, and automated tests.
 
+### [PDFLover](https://github.com/novaDev315/pdf_lover)
+
+A privacy-first, local-first PDF workspace built with React, TypeScript, Bun,
+and a capability-aware Fastify API. Browser-safe workflows stay local, while
+native document operations use temporary, consent-based server jobs.
+
 ### [Code Realm TS](https://github.com/novaDev315/code-realm-ts)
 
 A gamified TypeScript command-line application for practising algorithms and
