@@ -1,78 +1,58 @@
-# Hi there, I'm Mohamed 👋
+# Mohamed Abdelwahab
 
-I'm an Innovative Full-Stack Developer & Technology Solutions Architect with a passion for developing scalable web applications and embracing new challenges in the tech landscape. My journey in technology spans from creating responsive, user-centric web applications to designing and implementing secure, scalable solutions with a keen interest in microservices architecture and containerization.
+**Full-Stack Software Engineer | TypeScript, React, Node.js, PostgreSQL |
+Workflow Systems and Practical AI**
 
-## 🛠️ Skills
+I am a full-stack software engineer based in Ras Al Khaimah, UAE. I build
+practical software for business workflows, developer tooling, infrastructure
+automation, and privacy-conscious AI applications.
 
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Lua
-- **Frameworks/Libraries:** React, Redux, Node.js, Express.js, Nextjs
-- **Tools & Technologies:** Docker, Git & GitHub, SQL, MySQL, MongoDB, PostgreSQL, Cloudflare, Vercel
-- **Containerization & Microservices:** Proficient in using Docker to enhance scalability, ensure consistency across development and production environments, and facilitate microservices architecture.
+I focus on systems that reduce repetitive work and make operations easier to
+understand, audit, and maintain.
 
-## 🌱 Currently Learning
+## Selected work
 
-- AI Technology
-- Python
+### [Portfolio Platform](https://novadev.tech)
 
-<!--
-## 🚀 Featured Projects
+**Live deployment · Source not public · Employment-focused rebuild in progress**
 
-### Project Name 1
-Description of Project 1.
+A full-stack Next.js 15 application deployed to Cloudflare Workers with
+OpenNext, using Cloudflare D1 for production data. The codebase includes typed
+API routes, validation, migrations, and automated tests.
 
-📂 [GitHub Repository](https://github.com/your-username/project-1)
-🔗 [Live Demo](https://your-live-demo-link.com/project-1)
+### [Code Realm TS](https://github.com/novaDev315/code-realm-ts)
 
-### Project Name 2
-Description of Project 2.
+**Active personal project · Public repository**
 
-📂 [GitHub Repository](https://github.com/your-username/project-2)
-🔗 [Live Demo](https://your-live-demo-link.com/project-2)
+A gamified TypeScript command-line application for practising algorithms and
+system-design concepts. The chapter engine, Chapter 1, persistent progression,
+and autograder are implemented; the remaining chapter catalogue is planned.
 
-### Project Name 3
-Description of Project 3.
+### Novara
 
-📂 [GitHub Repository](https://github.com/your-username/project-3)
-🔗 [Live Demo](https://your-live-demo-link.com/project-3)
--->
-## 🌐 Languages
+**Private personal project**
 
-- **Arabic:** Native proficiency
-- **English:** Full professional proficiency
-- **Japanese:** Elementary proficiency
+My local-first personal AI assistant and engineering project, designed around
+privacy, explicit approval, auditability, memory, and governed tools. It is a
+personal system, not a commercial product.
 
-## 🌟 Interests
+## Current focus
 
-- Passionate about reading, especially technology and software development literature.
-- Avid gamer, drawing inspiration for web and game development projects.
-- Enthusiastic about swimming, learning new languages, and traveling to explore new cultures and technologies.
+- Production-quality TypeScript, React, and Node.js
+- Full-stack workflow systems and PostgreSQL-backed applications
+- Practical AI application engineering and secure agent workflows
+- Developer tooling, Linux, containers, and infrastructure automation
+- Testing, security boundaries, and maintainable architecture
 
-## 🌟 Soft Skills
-- Proven problem-solving abilities with a focus on innovative solutions.
-- Effective communication skills, refined by collaborating with international teams.
-- Quick learner, adapting to new technologies and methodologies to drive project success.
+## Open to work
 
-## 📫 Let's Connect!
+I am seeking full-time software-engineering roles in the UAE and with
+remote-first international teams, especially in full-stack TypeScript,
+Node.js backend, React/Next.js frontend, internal tools, workflow automation,
+developer tooling, and practical AI applications.
 
-- 🚀 **LinkedIn:** [linkedin.com/in/nova315](https://linkedin.com/in/nova315)
-- 🔗 **Portfolio:** [novadev.tech](https://novadev.tech)
-- 📫 **Email:** [mohamed@novadev.tech](mailto:mohamed@novadev.tech)
+## Connect
 
-Looking forward to collaborating on innovative projects and pushing the boundaries of what's possible with technology.
-Let's transform ideas into impactful digital experiences together!
-
-<details>
-  <summary><strong>👨💻 About Me (if you're interested though)</strong></summary>
-  <p>
-    As a passionate Full-Stack Developer and fervent tech enthusiast, my mission is to craft innovative solutions that resonate in the ever-evolving digital landscape. My adventure in tech began with the ambition to bridge aesthetics and functionality, leading me from freelance web development to the intricate challenges of game design. My hands-on experience spans across creating personalized, e-commerce, and corporate websites to contributing to the expansive world of the MORPG game "Rappelz," where I enhanced gameplay through novel features and robust security measures.
-  </p>
-  <p>
-    Holding a Full-Stack Engineer Certification, I'm not just equipped with a broad spectrum of technical skills—from HTML and CSS to JavaScript and Lua—but also with a persistent zeal for embracing new technologies and methodologies, such as Cloudflare and Vercel, to stay at the cutting edge of web and software development. This dedication extends beyond the professional realm, reflecting my personal commitment to leveraging technology in addressing pivotal issues like climate change.
-  </p>
-  <p>
-    Beyond coding, my world is enriched by a voracious appetite for reading, a passion for gaming that fuels my creativity, and an insatiable curiosity for exploring new cultures and languages, which has rendered me a multilingual communicator. These pursuits not only refine my technical expertise but also broaden my worldview, enabling me to approach each project with a fresh, global perspective.
-  </p>
-  <p>
-    I'm on a quest to collaborate with like-minded individuals and organizations to forge impactful digital experiences that push the boundaries of possibility. Together, let's navigate the future of technology and make a tangible difference in the world.
-  </p>
-</details>
+[Portfolio](https://novadev.tech) ·
+[LinkedIn](https://linkedin.com/in/nova315) ·
+[Email](mailto:mohamed@novadev.tech)
