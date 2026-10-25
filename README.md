@@ -1,58 +1,22 @@
-# Mohamed Abdelwahab
+<a href="https://novadev.tech"><img src="assets/hero.svg" width="100%" alt="Mohamed Abdelwahab, full-stack software engineer in Ras Al Khaimah, UAE. I build software for work that cannot stay manual. Open to UAE and international engineering roles."></a>
 
-**Full-Stack Software Engineer | TypeScript, React, Node.js, PostgreSQL |
-Workflow Systems and Practical AI**
+I build full-stack TypeScript software for business workflows, internal tools, infrastructure automation, and practical AI. My work starts with real operations problems: records that drift, approvals that stall, and computers that need support.
 
-I am a full-stack software engineer based in Ras Al Khaimah, UAE. I build
-practical software for business workflows, developer tooling, infrastructure
-automation, and privacy-conscious AI applications.
+<a href="https://novadev.tech/projects/luna"><img src="assets/file-01-luna.svg" width="100%" alt="File 01, Luna: an AI assistant app for my phone that helps me manage tasks, my calendar, and coding work, with an approval step before any agent action. Live since October 2026, 500+ commits, 160+ test files. TypeScript, React, Bun, SQLite, Docker."></a>
 
-I focus on systems that reduce repetitive work and make operations easier to
-understand, audit, and maintain.
+<a href="https://github.com/novaDev315/pdf_lover"><img src="assets/file-02-pdflover.svg" width="100%" alt="File 02, PDFLover: a privacy-first PDF workspace for merging, redacting, and OCR, with browser-side processing where supported. 463 JavaScript/TypeScript and 9 Python tests at commit 9e3d858 (5 September 2026). TypeScript, React, Vite, Fastify."></a>
 
-## Selected work
+<a href="https://github.com/novaDev315/realtime_project_management"><img src="assets/file-03-relay.svg" width="100%" alt="File 03, Relay Client Delivery: links client contracts to real-time delivery boards, with bilingual English/Arabic PDF and DOCX documents. Next.js, Express, MongoDB, Socket.IO, Redis."></a>
 
-### [Portfolio Platform](https://novadev.tech)
+<a href="https://novadev.tech/projects/nexos-homelab"><img src="assets/file-04-homelab.svg" width="100%" alt="File 04, NexOS Homelab: self-hosted Proxmox infrastructure managed as code with Terraform, Ansible, and NixOS, operated through a Go CLI/TUI I wrote. Proxmox, Terraform, Ansible, NixOS, Go."></a>
 
-A live full-stack Next.js 15 application deployed to Cloudflare Workers with
-OpenNext, using Cloudflare D1 for production data. The codebase includes typed
-API routes, validation, migrations, and automated tests.
+<img src="assets/stack.svg" width="100%" alt="Stack. Frontend: TypeScript, React, Next.js, Tailwind CSS, Vite, Expo. Backend: Node.js, NestJS, Fastify, Express, Bun, GraphQL. Data: PostgreSQL, MongoDB, SQLite, Redis, Socket.IO. Infrastructure: Docker, NixOS, Proxmox, Terraform, Ansible, Cloudflare, Go.">
 
-### [PDFLover](https://github.com/novaDev315/pdf_lover)
+<a href="mailto:mohamed@novadev.tech"><img src="assets/contact.svg" width="100%" alt="Write to me at mohamed@novadev.tech. Open to full-stack engineering roles: UAE on-site, hybrid, or remote, and international remote."></a>
 
-A privacy-first, local-first PDF workspace built with React, TypeScript, Bun,
-and a capability-aware Fastify API. Browser-safe workflows stay local, while
-native document operations use temporary, consent-based server jobs.
-
-### [Code Realm TS](https://github.com/novaDev315/code-realm-ts)
-
-A gamified TypeScript command-line application for practising algorithms and
-system-design concepts. It currently includes the chapter engine, Chapter 1,
-persistent progression, and an autograder, with more chapters on the roadmap.
-
-### Novara
-
-My local-first personal AI assistant and engineering project, designed around
-privacy, explicit approval, auditability, memory, and governed tools. I use it
-for my own workflows rather than offering it as a commercial product.
-
-## Current focus
-
-- Production-quality TypeScript, React, and Node.js
-- Full-stack workflow systems and PostgreSQL-backed applications
-- Practical AI application engineering and secure agent workflows
-- Developer tooling, Linux, containers, and infrastructure automation
-- Testing, security boundaries, and maintainable architecture
-
-## Open to work
-
-I am seeking full-time software-engineering roles in the UAE and with
-remote-first international teams, especially in full-stack TypeScript,
-Node.js backend, React/Next.js frontend, internal tools, workflow automation,
-developer tooling, and practical AI applications.
-
-## Connect
-
-[Portfolio](https://novadev.tech) ·
-[LinkedIn](https://linkedin.com/in/nova315) ·
-[Email](mailto:mohamed@novadev.tech)
+<p align="center">
+  <a href="https://novadev.tech">Portfolio</a> ·
+  <a href="https://linkedin.com/in/nova315">LinkedIn</a> ·
+  <a href="mailto:mohamed@novadev.tech">Email</a> ·
+  <a href="https://novadev.tech/resume">Résumé</a>
+</p>
