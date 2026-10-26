@@ -293,28 +293,35 @@ def hero() -> str:
 
 PROJECTS = [
     dict(
-        n="01", slug="luna", name="Luna", status="PERSONAL PROJECT · LIVE",
+        n="01", slug="hr", name="HR Operations Platform", status="PERSONAL PROJECT · ACTIVE",
+        text="Solo-built HR system: employee records, attendance, leave approvals, payroll, and reporting across a web admin portal and a mobile app.",
+        fact="ADMIN WALKTHROUGH RECORDED · DEMO DATA",
+        stack=["NestJS", "GraphQL", "React", "Expo", "PostgreSQL"],
+        stamp=("Web + mobile", STAMP), shot="hr/home.webp", link="READ THE CASE STUDY",
+    ),
+    dict(
+        n="02", slug="luna", name="Luna", status="PERSONAL PROJECT · LIVE",
         text="AI assistant app for my phone that helps me manage tasks, my calendar, and coding work. Nothing it proposes runs until I approve it.",
         fact="500+ COMMITS · 160+ TEST FILES",
         stack=["TypeScript", "React", "Bun", "SQLite", "Podman"],
         stamp=("Live on my homelab", STAMP), shot="luna/poster.webp", link="READ THE CASE STUDY",
     ),
     dict(
-        n="02", slug="pdflover", name="PDFLover", status="PUBLIC REPOSITORY",
+        n="03", slug="pdflover", name="PDFLover", status="PUBLIC REPOSITORY",
         text="Privacy-first PDF workspace for merging, redacting, and OCR, with browser-side processing where supported.",
         fact="TESTS AT COMMIT 9E3D858 · 5 SEP 2026",
         stack=["TypeScript", "React", "Vite", "Fastify"],
         stamp=("463 + 9 tests", STAMP), stamp_top=True, shot="pdflover/poster.webp", link="VIEW THE REPOSITORY",
     ),
     dict(
-        n="03", slug="relay", name="Relay Client Delivery", status="PUBLIC REPOSITORY",
+        n="04", slug="relay", name="Relay Client Delivery", status="PUBLIC REPOSITORY",
         text="Links client contracts to real-time delivery boards, with bilingual English/Arabic PDF and DOCX documents.",
         fact="INTEGRATION TESTS ON A DISPOSABLE MONGODB",
         stack=["Next.js", "Express", "MongoDB", "Socket.IO", "Redis"],
         stamp=("EN / AR", STAMP_RED), shot="relay/relay.webp", link="VIEW THE REPOSITORY",
     ),
     dict(
-        n="04", slug="homelab", name="NexOS Homelab", status="PERSONAL INFRASTRUCTURE · ACTIVE",
+        n="05", slug="homelab", name="NexOS Homelab", status="PERSONAL INFRASTRUCTURE · ACTIVE",
         text="Self-hosted Proxmox infrastructure managed as code, with a Go CLI/TUI I wrote for deploys and operations.",
         fact="HOSTS LUNA · 440+ COMMITS ON THE GO TOOL",
         stack=["Proxmox", "Terraform", "Ansible", "NixOS", "Go"],
@@ -351,7 +358,7 @@ def project(p, flip: bool) -> str:
         t(tab_x + 18, 36, f"FILE {p['n']}", TYPE, 12, 700, MANILA_INK, 0.14),
         t(tab_x + 18 + measure(f"FILE {p['n']} ", TYPE, 12, 0.14, 700) + 4, 36, p["name"].upper(), TYPE, 12, 400, MANILA_INK, 0.1),
         t(
-            (fx + 24) if flip else (W - 40), 36, f"SELECTED WORK · {p['n']}/04", TYPE, 10, 400, "#6f6450", 0.14,
+            (fx + 24) if flip else (W - 40), 36, f"SELECTED WORK · {p['n']}/{len(PROJECTS):02d}", TYPE, 10, 400, "#6f6450", 0.14,
             anchor="start" if flip else "end",
         ),
     ]
@@ -422,7 +429,7 @@ def stack() -> str:
         f'<rect width="{cw}" height="{chh}" fill="url(#grain)"/>',
         f'<line x1="0" y1="52" x2="{cw}" y2="52" stroke="{RULE_RED}" stroke-opacity=".7"/>',
         f'<line x1="{margin - 14}" y1="0" x2="{margin - 14}" y2="{chh}" stroke="{RULE_RED}" stroke-opacity=".7"/>',
-        t(22, 34, "CARD 05", TYPE, 11, 700, INK, 0.14),
+        t(22, 34, "CARD 06", TYPE, 11, 700, INK, 0.14),
         t(margin, 34, "TOOLS I SHIP WITH", TYPE, 11, 400, PMUTED, 0.14),
         t(cw - 22, 34, "INDEX · STACK", TYPE, 11, 400, PMUTED, 0.14, anchor="end"),
     ]
