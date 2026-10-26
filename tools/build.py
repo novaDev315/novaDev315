@@ -172,7 +172,7 @@ COMMON_CSS = """
 
 DEFS = f"""
 <filter id="paperShadow" x="-20%" y="-20%" width="140%" height="160%">
-  <feDropShadow dx="0" dy="16" stdDeviation="13" flood-color="#000" flood-opacity=".3"/>
+  <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#000" flood-opacity=".3"/>
 </filter>
 <filter id="softShadow" x="-10%" y="-10%" width="120%" height="140%">
   <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#000" flood-opacity=".28"/>
@@ -294,10 +294,10 @@ def hero() -> str:
 PROJECTS = [
     dict(
         n="01", slug="luna", name="Luna", status="PERSONAL PROJECT · LIVE",
-        text="AI assistant app for my phone that helps me manage tasks, my calendar, and coding work. Every agent action waits for my approval.",
+        text="AI assistant app for my phone that helps me manage tasks, my calendar, and coding work. Nothing it proposes runs until I approve it.",
         fact="500+ COMMITS · 160+ TEST FILES",
-        stack=["TypeScript", "React", "Bun", "SQLite", "Docker"],
-        stamp=("Live · Oct 2026", STAMP), shot="luna/poster.webp", link="READ THE CASE STUDY",
+        stack=["TypeScript", "React", "Bun", "SQLite", "Podman"],
+        stamp=("Live on my homelab", STAMP), shot="luna/poster.webp", link="READ THE CASE STUDY",
     ),
     dict(
         n="02", slug="pdflover", name="PDFLover", status="PUBLIC REPOSITORY",
@@ -337,8 +337,8 @@ def tag_row(names, x, y, max_w):
 
 
 def project(p, flip: bool) -> str:
-    h = 386
-    fx, fy, fw, fh = 16, 44, W - 32, h - 64
+    h = 404
+    fx, fy, fw, fh = 16, 44, W - 32, 322
     tab_label = measure(f"FILE {p['n']} ", TYPE, 12, 0.14, 700) + 4 + measure(p["name"].upper(), TYPE, 12, 0.1)
     tab_w = tab_label + 18 + 34
     tab_x = W - 16 - tab_w - 10 if flip else 16
@@ -414,7 +414,7 @@ STACK = [
 
 
 def stack() -> str:
-    h = 292
+    h = 314
     cx, cy, cw, chh = 28, 22, W - 56, 244
     margin = 132
     card = [
@@ -444,7 +444,7 @@ def stack() -> str:
 
 
 def envelope() -> str:
-    h = 318
+    h = 338
     ex, ey, ew, eh = 24, 18, W - 48, 268
     env = [
         f'<rect width="{ew}" height="{eh}" rx="4" fill="{KRAFT}" filter="url(#paperShadow)"/>',

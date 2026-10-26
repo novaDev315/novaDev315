@@ -2,7 +2,7 @@
 
 I build full-stack TypeScript software for business workflows, internal tools, infrastructure automation, and practical AI. My work starts with real operations problems: records that drift, approvals that stall, and computers that need support.
 
-<a href="https://novadev.tech/projects/luna"><img src="assets/file-01-luna.svg" width="100%" alt="File 01, Luna: an AI assistant app for my phone that helps me manage tasks, my calendar, and coding work, with an approval step before any agent action. Live since October 2026, 500+ commits, 160+ test files. TypeScript, React, Bun, SQLite, Docker."></a>
+<a href="https://novadev.tech/projects/luna"><img src="assets/file-01-luna.svg" width="100%" alt="File 01, Luna: an AI assistant app for my phone that helps me manage tasks, my calendar, and coding work, and nothing it proposes runs until I approve it. Live on my homelab, 500+ commits, 160+ test files. TypeScript, React, Bun, SQLite, Podman."></a>
 
 <a href="https://github.com/novaDev315/pdf_lover"><img src="assets/file-02-pdflover.svg" width="100%" alt="File 02, PDFLover: a privacy-first PDF workspace for merging, redacting, and OCR, with browser-side processing where supported. 463 JavaScript/TypeScript and 9 Python tests at commit 9e3d858 (5 September 2026). TypeScript, React, Vite, Fastify."></a>
 
